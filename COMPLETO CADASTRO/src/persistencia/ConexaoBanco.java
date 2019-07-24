@@ -12,11 +12,11 @@ import java.sql.SQLException;
 public class ConexaoBanco {
 
     //Atributos estáticos com os dados do Banco de Dados
-    //private static String URL = "jdbc:mysql://172.16.10.192:3306/db1";
+    //private static String URL = "jdbc:mysql://host:porta/db1";
     //private static String USUARIO = "qidados";
     //private static String SENHA = "qidados";
     
-    private static String URL="jdbc:mysql://192.168.25.13:3307/db2";
+    private static String URL="jdbc:mysql://host:porta/db2";
     private static String USUARIO="root";
     private static String SENHA="root";
 
